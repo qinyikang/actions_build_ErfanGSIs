@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_064_all_2009080056_338a836209c54a7e.zip
-  ROM_NAME: OxygenOS
+  ROM_URL: https://cloud189-shandong-person.oos-sdqd.ctyunapi.cn/25d81a36-84bc-4a20-9de9-e3d6a1f5d173?x-amz-CLIENTTYPEIN=UNKNOWN&AWSAccessKeyId=caf5e6901807aca55a45&x-amz-UID=365599770&x-amz-APPID=828221&response-content-disposition=attachment%3Bfilename%3D%22Sky_Mi8_20.3.26Dev_10%28FC1BB6B911%29.zip%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&x-amz-limit=rate%3D10240%2Cconcurrency%3D20&Signature=2FFnEwlPXeDveLc4q3dOZfxP2EQ%3D&x-amz-SHID=170571158&Expires=1607264702&x-amz-FSIZE=2235433881&x-amz-UFID=41387112234519227
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
